@@ -20,7 +20,7 @@ let package = Package(
         // Binary target -  will download the pre-compiled library
         .binaryTarget(
             name: "AntifraudeSDK",
-            url: "https://github.com/Legitimuz-Tech/legitimuz-sdk-geoloc-ios/releases/download/1.0.1/AntifraudeSDK.xcframework.zip",
+            url: "https://github.com/Legitimuz-Tech/legitimuz-sdk-geoloc-ios/releases/download/1.0.3/AntifraudeSDK.xcframework.zip",
             checksum: "ddb82550fc841e233f8f6b96cc74b13e16b31687e0a26c278e7909ae447ee8a8"
            
         ),
