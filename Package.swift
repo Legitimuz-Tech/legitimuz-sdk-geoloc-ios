@@ -21,7 +21,7 @@ let package = Package(
         .binaryTarget(
             name: "AntifraudeSDK",
             url: "https://github.com/Legitimuz-Tech/legitimuz-sdk-geoloc-ios/releases/download/1.0.0/AntifraudeSDK.xcframework.zip",
-            checksum: "f55ec27f5057ea8b9687203c22216fb96d4460223da632472dac1b0b898b40b0"
+            checksum: "ddb82550fc841e233f8f6b96cc74b13e16b31687e0a26c278e7909ae447ee8a8"
            
         ),
         .testTarget(
